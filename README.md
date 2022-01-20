@@ -1,5 +1,5 @@
 # countdownTimer
-Building countdown timer with Javascript
+Building countdown timer with Javascript. Nothing groundbreaking, just needed a countdown timer for my website for an artshow and wanted to better understand the mechanics of the premade one I chose to use.
 
 
 USAGE:
